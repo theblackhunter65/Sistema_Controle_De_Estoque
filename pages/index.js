@@ -1,4 +1,4 @@
-function Home(){
+function Home() {
   return (
     <>
       <h1>SISTEMA DE CONTROLE DE ESTOQUE</h1>
