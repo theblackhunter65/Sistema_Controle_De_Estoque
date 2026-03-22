@@ -1,0 +1,13 @@
+{
+  "name": "sistema_controle_de_estoque",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
