@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/morae/OneDrive/%C3%81rea%20de%20Trabalho/Sistema%20Automatizado/Sistema_Controle_de_Estoque/pages/index.js"],"sourcesContent":["function Home(){\r\n  return (\r\n    <>\r\n      <h1>Sistema Controle de estoque</h1>\r\n      <p>Feito por José Tiago</p>\r\n    </>\r\n  );\r\n}\r\n\r\nexport default Home;"],"names":["Home"],"mappings":";;;;;;AAAA,SAASA;IACP,qBACE;;0BACE,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;AAGT;uCAEeA"}}]
-}
