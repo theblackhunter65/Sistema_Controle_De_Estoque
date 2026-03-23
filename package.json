@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "lint:check": "prettier --check ."
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write .",
+    "test": "echo \"Erro: nenhum teste ainda\" && exit 1"
   },
   "dependencies": {
     "next": "^13.1.6",

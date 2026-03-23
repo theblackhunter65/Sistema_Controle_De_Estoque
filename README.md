@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Sistema de Controle de Estoque desenvolvido em Node.js,React.js,NEXT.JS,HTML5,CSS3
+> Sistema de Controle de Estoque desenvolvido em Node.js,React.js,NEXT.JS,HTML5,CSS3,PostGreen SQL
 
 ## Install
 
