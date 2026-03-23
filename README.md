@@ -24,13 +24,14 @@ npm run test
 
 👤 **Tiago**
 
-* Website: Tiago
-* Github: [@theblackhunter65](https://github.com/theblackhunter65)
-* LinkedIn: [@https:\/\/www.linkedin.com\/feed\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/feed\/)
+- Website: Tiago
+- Github: [@theblackhunter65](https://github.com/theblackhunter65)
+- LinkedIn: [@https:\/\/www.linkedin.com\/feed\/](https://linkedin.com/in/https://www.linkedin.com/feed/)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
