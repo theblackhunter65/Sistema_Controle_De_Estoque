@@ -6,7 +6,26 @@
   </a>
 </p>
 
-> Sistema de Controle de Estoque desenvolvido em Node.js,React.js,NEXT.JS,HTML5,CSS3,PostGreen SQL
+>## 🚀 O que estou aprendendo no Curso.dev
+
+### 🛠️ Marco 1: Ambiente Profissional
+- [x] Versionamento com Git (Commits, Log, Diff, Push)
+- [x] Padronização com EditorConfig e Prettier
+- [ ] Gestão de tarefas com Milestones e Issues
+
+### 🧪 Marco 2: Testes e Qualidade
+- [ ] Testes Automatizados e TDD
+- [ ] Integração Contínua (CI) com GitHub Actions
+
+### 🗄️ Marco 3: Banco de Dados e Backend
+- [ ] Docker e PostgreSQL
+- [ ] Migrations e Variáveis de Ambiente
+- [ ] Segurança contra SQL Injection
+
+### 🔐 Marco 4: Usuários e Autenticação
+- [ ] Criptografia de senhas (Hash, Salt e Pepper)
+- [ ] Gerenciamento de Cookies e Sessões
+- [ ] Sistema de Emails (SPF, DKIM e DMARC)
 
 ## Install
 
