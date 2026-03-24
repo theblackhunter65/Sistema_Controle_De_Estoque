@@ -11,7 +11,7 @@
 ### 🛠️ Marco 1: Ambiente Profissional
 - [x] Versionamento com Git (Commits, Log, Diff, Push)
 - [x] Padronização com EditorConfig e Prettier
-- [ ] Gestão de tarefas com Milestones e Issues
+- [x] Gestão de tarefas com Milestones e Issues
 
 ### 🧪 Marco 2: Testes e Qualidade
 - [ ] Testes Automatizados e TDD
