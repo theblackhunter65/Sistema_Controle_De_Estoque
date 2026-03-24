@@ -12,7 +12,8 @@
 - [x] Versionamento com Git (Commits, Log, Diff, Push)
 - [x] Padronização com EditorConfig e Prettier
 - [x] Gestão de tarefas com Milestones e Issues
-
+- [ ] Resgistrar o domínio próprio
+- [ ] Configurar Servidor de DNS
 ### 🧪 Marco 2: Testes e Qualidade
 - [ ] Testes Automatizados e TDD
 - [ ] Integração Contínua (CI) com GitHub Actions

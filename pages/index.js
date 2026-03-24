@@ -9,6 +9,6 @@ function Home() {
 }
 
 function teste() {
-  console.log("teste");
+  console.log("Sistema");
 }
 export default Home;
